@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "nome": "VET QUALITY",
+        "descrição": "vq",
+        "rating": 4,
+        "imagem": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/1-1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Sonho Meu",
+        "descrição": "sm",
+        "rating": 5,
+        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/2-1.webp"
+    },
+    {
+        "id": 3,
+        "name": "VET HOMEPATAS",
+        "descrição": "vh",
+        "rating": 5,
+        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/3-1.webp"
+    },
+    {
+        "id": 4,
+        "name": "AnimalClinic",
+        "descrição": "ac",
+        "rating": 4,
+        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/4-1.webp"
+    }
+
+]
